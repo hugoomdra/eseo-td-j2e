@@ -16,6 +16,8 @@
 
 <p>Voici votre NIR : <span style="color: green">${nir.getNir()}</span></p>
 
+<p>Genre : ${nir.getGenre()}</p>
+
 <p>La clé du NIR est : <span style="color: red">${nir.getCle()}</span></p>
 
 </body>
